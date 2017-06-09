@@ -16,3 +16,7 @@ git 鼓励大量使用分支：
 
 Creating a new branch is quick AND simple.
 
+
+git log --graph
+git log --graph --pretty=oneline --abbrev-commit
+
